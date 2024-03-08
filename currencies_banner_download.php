@@ -312,7 +312,7 @@ else
             <?php include('inc_header.php'); ?>
             <!-- breadcrumb -->
             <div class="breadcrumb_content">
-                <div class="breadcrumb_text"><a href="dashboard.php">Dashboardsssssssss</a> / <?php echo $plu_del_rep; ?>
+                <div class="breadcrumb_text"><a href="dashboard.php">Dashboard</a> / <?php echo $plu_del_rep; ?>
                 </div>
             </div>
             <!-- /breadcrumb -->
